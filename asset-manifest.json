@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Vikart/static/css/main.3de5c125.css",
+    "main.js": "/Vikart/static/js/main.7fc4f715.js",
+    "static/js/787.8287823c.chunk.js": "/Vikart/static/js/787.8287823c.chunk.js",
+    "static/media/Online Shopping (HD).png": "/Vikart/static/media/Online Shopping (HD).54867e0bf16b28643463.png",
+    "static/media/Gift Box (HD).png": "/Vikart/static/media/Gift Box (HD).52c396679972d73d1f6a.png",
+    "static/media/giphy2.gif": "/Vikart/static/media/giphy2.ac45b8f9d4da7028cbf1.gif",
+    "static/media/Store.png": "/Vikart/static/media/Store.25094c3d655db2a16d1e.png",
+    "static/media/first.jpg": "/Vikart/static/media/first.b3ca49395de66ed0fda3.jpg",
+    "static/media/Happy Shopping.png": "/Vikart/static/media/Happy Shopping.7fcc0ea962417138362e.png",
+    "static/media/fifth.jpg": "/Vikart/static/media/fifth.2a4edeedf739d992bb5d.jpg",
+    "static/media/third.jpg": "/Vikart/static/media/third.c13141d7c1290c668844.jpg",
+    "static/media/second.jpg": "/Vikart/static/media/second.559e369cb58c72797d94.jpg",
+    "static/media/fourth.jpg": "/Vikart/static/media/fourth.f53fc9dc721ebd605656.jpg",
+    "static/media/grocery.jpg": "/Vikart/static/media/grocery.b2b12bbc9074fd406d3f.jpg",
+    "static/media/fashion.jpg": "/Vikart/static/media/fashion.d1d48cebbc66a75a631c.jpg",
+    "static/media/tv and application.jpg": "/Vikart/static/media/tv and application.6a9cebadc745ab575a1c.jpg",
+    "static/media/toys.jpg": "/Vikart/static/media/toys.94dec81cfea1cf809e62.jpg",
+    "static/media/mobile.jpg": "/Vikart/static/media/mobile.a9af59e17341db9b2279.jpg",
+    "static/media/electronics.jpg": "/Vikart/static/media/electronics.c0ff4639906b01bd3c69.jpg",
+    "static/media/furniture.jpg": "/Vikart/static/media/furniture.a06539bbe7887b649c0c.jpg",
+    "static/media/kitchen.jpg": "/Vikart/static/media/kitchen.cbe3919d087e6dec389a.jpg",
+    "index.html": "/Vikart/index.html",
+    "main.3de5c125.css.map": "/Vikart/static/css/main.3de5c125.css.map",
+    "main.7fc4f715.js.map": "/Vikart/static/js/main.7fc4f715.js.map",
+    "787.8287823c.chunk.js.map": "/Vikart/static/js/787.8287823c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de5c125.css",
+    "static/js/main.7fc4f715.js"
+  ]
+}

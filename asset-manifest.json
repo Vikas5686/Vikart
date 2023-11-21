@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vikart/static/css/main.3de5c125.css",
-    "main.js": "/Vikart/static/js/main.6fa5b169.js",
+    "main.js": "/Vikart/static/js/main.7fc4f715.js",
     "static/js/787.8287823c.chunk.js": "/Vikart/static/js/787.8287823c.chunk.js",
     "static/media/Online Shopping (HD).png": "/Vikart/static/media/Online Shopping (HD).54867e0bf16b28643463.png",
     "static/media/Gift Box (HD).png": "/Vikart/static/media/Gift Box (HD).52c396679972d73d1f6a.png",
@@ -23,11 +23,11 @@
     "static/media/kitchen.jpg": "/Vikart/static/media/kitchen.cbe3919d087e6dec389a.jpg",
     "index.html": "/Vikart/index.html",
     "main.3de5c125.css.map": "/Vikart/static/css/main.3de5c125.css.map",
-    "main.6fa5b169.js.map": "/Vikart/static/js/main.6fa5b169.js.map",
+    "main.7fc4f715.js.map": "/Vikart/static/js/main.7fc4f715.js.map",
     "787.8287823c.chunk.js.map": "/Vikart/static/js/787.8287823c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3de5c125.css",
-    "static/js/main.6fa5b169.js"
+    "static/js/main.7fc4f715.js"
   ]
 }

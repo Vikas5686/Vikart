@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Vikart/static/css/main.3de5c125.css",
-    "main.js": "/Vikart/static/js/main.6d00bac9.js",
+    "main.css": "/Vikart/static/css/main.6934f018.css",
+    "main.js": "/Vikart/static/js/main.976b2347.js",
     "static/js/787.8287823c.chunk.js": "/Vikart/static/js/787.8287823c.chunk.js",
     "static/media/Online Shopping (HD).png": "/Vikart/static/media/Online Shopping (HD).54867e0bf16b28643463.png",
     "static/media/Gift Box (HD).png": "/Vikart/static/media/Gift Box (HD).52c396679972d73d1f6a.png",
@@ -22,12 +22,12 @@
     "static/media/furniture.jpg": "/Vikart/static/media/furniture.a06539bbe7887b649c0c.jpg",
     "static/media/kitchen.jpg": "/Vikart/static/media/kitchen.cbe3919d087e6dec389a.jpg",
     "index.html": "/Vikart/index.html",
-    "main.3de5c125.css.map": "/Vikart/static/css/main.3de5c125.css.map",
-    "main.6d00bac9.js.map": "/Vikart/static/js/main.6d00bac9.js.map",
+    "main.6934f018.css.map": "/Vikart/static/css/main.6934f018.css.map",
+    "main.976b2347.js.map": "/Vikart/static/js/main.976b2347.js.map",
     "787.8287823c.chunk.js.map": "/Vikart/static/js/787.8287823c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3de5c125.css",
-    "static/js/main.6d00bac9.js"
+    "static/css/main.6934f018.css",
+    "static/js/main.976b2347.js"
   ]
 }
